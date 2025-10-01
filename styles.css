@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #5b5858 url ('img/bg.jpg') no-repeat left center/cover;
+  background: #676363 url('img/bg.jpg') no-repeat left center/cover;
   color: #e680d2;
   min-height: 100vh;
   display: flex;
@@ -30,7 +30,7 @@ body {
  .play-again {
    padding: 8 px 15px;
    border: 0; 
-   background-color: #746f6f;
+   background-color: #ffffff;
    border-radius: 5px;
    margin-top: 10px;
  }
